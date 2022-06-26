@@ -1,0 +1,2 @@
+[flake8]
+per-file-ignores= interact_with_contract.py:E501, get_any_ether_balance.py:E501
